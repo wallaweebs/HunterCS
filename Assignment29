@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Name: Debasree Sen
+#Email: debasree.sen63@myhunter.cuny.edu
+
+echo "Hello, World"
+
+$ chmod +x Assignment29
+$ ./Assignment29
