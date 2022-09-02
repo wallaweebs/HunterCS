@@ -1,2 +1,1 @@
-# HunterCS
-Python and C++ 
+
